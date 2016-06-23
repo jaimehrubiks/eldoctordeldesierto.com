@@ -1,12 +1,12 @@
 destination: /var/www/html
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: El Doctor del Desierto
+description: El Doctor del Desierto
+author: Jaime Hidalgo
 logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+github: https://github.com/jaimehrubiks
+about: El Doctor del Desierto
+disqus_shortname: jaimehrubiks
+google_analytics: UA-79779892-1
 urls:
     - text: Home
       url: /
@@ -22,19 +22,19 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/jaimehrubiks
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
       icon: fa-feed
-      
+
 social:
     - icon: fa-facebook
       link: '#'
     - icon: fa-skype
-      link: '#'
+      link: 'jaime-h'
     - icon: fa-twitter
-      link: '#'
+      link: 'http://twitter.com/jaimehrubiks'
     - icon: fa-linkedin
       link: '#'
     - icon: fa-stack-exchange
@@ -48,7 +48,7 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: ""
 baseurl: ""
 paginate: 20
 per_page: 20

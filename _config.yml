@@ -1,4 +1,4 @@
-destination: /var/www/html
+destination: /var/www/html/web
 title: El Doctor del Desierto
 description: El Doctor del Desierto
 author: Jaime Hidalgo
@@ -48,8 +48,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: ""
-baseurl: ""
+url: "/web"
+baseurl: "/web"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
